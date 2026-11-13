@@ -1,2 +1,2 @@
-kill=0
+kill=1
 allow:8783dc3015cf1560
