@@ -1,2 +1,2 @@
 kill=0
-deny:d62670ff5428a463
+allow:d62670ff5428a463
