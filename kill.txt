@@ -1,2 +1,1 @@
-kill=0
-allow:d62670ff5428a463
+kill=1
