@@ -1,2 +1,3 @@
 kill=0
 allow:d62670ff5428a463 Redmi K50
+deny:f5922508192292d9 Xiaomi 15
