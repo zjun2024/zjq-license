@@ -1,2 +1,3 @@
 kill=0
 allow:d62670ff5428a463 Redmi K50
+deny:bbd744916ab4fdcf Mi 10S
